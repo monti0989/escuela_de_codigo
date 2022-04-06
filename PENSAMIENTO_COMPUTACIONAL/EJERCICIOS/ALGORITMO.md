@@ -66,3 +66,37 @@ res = año act - año de nac
 mostrar(res)
 
 fin
+
+
+
+cualquier numero lo multiplique por 9
+
+inicio
+
+valores ( 9, numx, res )
+
+numx = x
+
+res = 9 * numx
+
+mostrar (res)
+
+fin
+
+
+comvertir de metros a yardas
+
+inicio
+
+valores (mts, yard)
+
+yard = 0.9144
+
+mts = x
+
+op = mts / 0.9144
+
+mostrar ( op )
+
+fin
+
