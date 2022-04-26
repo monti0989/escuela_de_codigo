@@ -1,0 +1,8 @@
+1  inicio
+2  escribir " ingresa el n umero de tabla que quieres multiplicar"
+3  declarar valores "num"
+4  asignar valores 
+   mul= num * i 
+5  mostrar num, "x", i, "=", mul
+6  fin
+7  
